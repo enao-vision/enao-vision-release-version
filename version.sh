@@ -9,4 +9,4 @@ PATCH=5
 DATE=$(date +%d-%m-%Y)
 
 # --- Output version string ---
-echo "${MAJOR}.${MINOR}.${PATCH}+${DATE}"
+echo "${MAJOR}.${MINOR}.${PATCH}-${DATE}"
