@@ -1,9 +1,9 @@
 #!/bin/sh
 
 # --- Configuration ---
-MAJOR=1
-MINOR=2
-PATCH=10
+MAJOR=2
+MINOR=0
+PATCH=0
 
 # --- Generate Date ---
 DATE=$(date +%d-%m-%Y)
