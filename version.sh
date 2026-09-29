@@ -3,7 +3,7 @@
 # --- Configuration ---
 MAJOR=2
 MINOR=2
-PATCH=6
+PATCH=8
 
 # --- Generate Date ---
 DATE=$(date +%d-%m-%Y)
